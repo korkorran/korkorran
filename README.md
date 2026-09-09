@@ -2,6 +2,10 @@
 
 Welcome to my GitHub
 
+## Recent work :
+
+**[Owebview](https://github.com/korkorran/Owebview)** an embedded web rendering engine for OCaml apps. It is a wrapper around the [webview](https://github.com/webview/webview) library.
+
 ## Check Out 🔎 My Deployed 🚕 Projects:
 
  - **[Snake Game 🐍](https://snake-azure.vercel.app/)**
@@ -30,6 +34,7 @@ a basic starter for authentification with React : [repo](https://github.com/Fred
 
 
 <p align="center">
- <a href="https://twitter.com/Fredestrik" target="blank"><img src="https://img.shields.io/twitter/follow/Fredestrik?logo=twitter&style=for-the-badge" alt="Fredestrik" /></a> </p>
+ <a href="https://bsky.app/profile/korkorran.bsky.social" target="blank"> 🦋 @korkorran </a> 
+</p>
 
 <p align="center">💬 Ask me about JavaScript & OCaml</p>
